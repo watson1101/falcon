@@ -1,4 +1,5 @@
 ![Falcon logo](https://github.com/plotly/falcon-sql-client/raw/master/static/images/falcon-logo-by-plotly-stripe.png)
+一款免费、开源的 SQL 可视化编辑器，具有查询数据、可视化等功能。 支持 Windows、Mac、Linux 操作系统，能够链接 MySQL、PostgreSQL、SQLite 等多种数据库，并把查询结果通过不同形式图表展示。
 
 Falcon is a free, open-source SQL editor with inline data visualization. It currently supports connecting to **RedShift**, **MySQL**, **PostgreSQL**, **IBM DB2**, **Impala**, **MS SQL**, **Oracle**, **SQLite** and more (for connecting to Oracle, please, see [here](https://github.com/plotly/falcon-sql-client/blob/master/ORACLE.md) the instructions to install the required free Oracle Instant Client).
 
